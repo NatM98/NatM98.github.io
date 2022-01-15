@@ -5,13 +5,13 @@
     const text = [
         ["Polska ", "Ameryka ", "Rosja ", "Francja ", "Heartland "],
 
-        ["w sferze deklaratywnej ", "tak jak systemy antydostêpowe ", "tak jak Mackinder ", "potencjalnie ", "tak jak amerykañski Junior Partner"],
+        ["w sferze deklaratywnej ", "tak jak systemy antydostÃªpowe ", "tak jak Mackinder ", "potencjalnie ", "tak jak amerykaÃ±ski Junior Partner"],
 
-        ["piwotuje na Pacyfik, ", "bêdzie jêzyczkiem u wagi, ", "nas zdradzi, ", "bêdzie walczyæ o pomost ba³tycko-czarnomorski, ", "odda masy l¹dowe Euroazji, "],
+        ["piwotuje na Pacyfik, ", "bÃªdzie jÃªzyczkiem u wagi, ", "nas zdradzi, ", "bÃªdzie walczyÃ¦ o pomost baÂ³tycko-czarnomorski, ", "odda masy lÂ¹dowe Euroazji, "],
 
-        ["ale nowa architektura bezpieczeñstwa ", "a przep³yw strategiczny ", "jednak pamiêtajmy, ¿e Zachód nie istnieje, ", "a przesmyk suwalski ", "a Ocean Œwiatowy "],
+        ["ale nowa architektura bezpieczeÃ±stwa ", "a przepÂ³yw strategiczny ", "jednak pamiÃªtajmy, Â¿e ZachÃ³d nie istnieje, ", "a przesmyk suwalski ", "a Ocean Å’wiatowy "],
 
-        ["to projekcja si³y.", "bêdzie obiektem walki koncertu mocarstw.", "to tak naprawdê System Atlantycki.", "to Druga Ja³ta.", "to ³ad konstruktywistyczny."]
+        ["to projekcja siÂ³y.", "bÃªdzie obiektem walki koncertu mocarstw.", "to tak naprawdÃª System Atlantycki.", "to Druga JaÂ³ta.", "to Â³ad konstruktywistyczny."]
     ]
 
     lottery = number => {

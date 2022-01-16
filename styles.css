@@ -44,7 +44,6 @@ body {
 
 .shadowbox {
     position: relative;
-    top: 40px; left: 40px;
     width: fit-content;
 }
 

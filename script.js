@@ -5,11 +5,11 @@
     const text = [
         ["Polska ", "Ameryka ", "Rosja ", "Francja ", "Heartland "],
 
-        ["w sferze deklaratywnej ", "tak jak systemy antydostępowe ", "tak jak Mackinder ", "potencjalnie ", "tak jak amerykański Junior Partner"],
+        ["w sferze deklaratywnej ", "tak jak systemy antydostępowe ", "tak jak Mackinder ", "potencjalnie ", "tak jak amerykański Junior Partner "],
 
         ["piwotuje na Pacyfik, ", "będzie języczkiem u wagi, ", "nas zdradzi, ", "będzie walczyć o pomost bałtycko-czarnomorski, ", "odda masy lądowe Euroazji, "],
 
-        ["ale nowa architektura bezpieczeñstwa ", "a przepływ strategiczny ", "jednak pamiętajmy, że Zachód nie istnieje, ", "a przesmyk suwalski ", "a Ocean Światowy "],
+        ["ale nowa architektura bezpieczeństwa ", "a przepływ strategiczny ", "jednak pamiętajmy, że Zachód nie istnieje, ", "a przesmyk suwalski ", "a Ocean Światowy "],
 
         ["to projekcja siły.", "będzie obiektem walki koncertu mocarstw.", "to tak naprawdę System Atlantycki.", "to Druga Jałta.", "to ład konstruktywistyczny."]
     ]

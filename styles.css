@@ -67,7 +67,7 @@ button {
 .generate {
     position: relative;
     font-weight: 800;
-    bottom: 2rem;
+    bottom: 4rem;
     padding: 0 0.5rem 0 0.5rem;
     text-shadow: -0.1rem -0.1rem 0 black, 0.1rem -0.1rem 0 black, -0.1rem 0.1rem 0 black, 0.1rem 0.1rem 0 black;
 }

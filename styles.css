@@ -39,17 +39,12 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: black;
+    background: blue;
 }
 
 .shadowbox {
     position: relative;
     width: fit-content;
-}
-
-img {
-    max-width: 100%;
-    margin: 4.5rem 0 0 0;
 }
 
 button {
@@ -70,7 +65,7 @@ button {
 }
 
 .generate {
-    position: absolute;
+    position: relative;
     font-weight: 800;
     bottom: 2rem;
     padding: 0 0.5rem 0 0.5rem;

@@ -42,7 +42,7 @@ body {
     background: black;
 }
 
-.wrapper {
+.shadowbox {
     position: relative;
     width: fit-content;
 }

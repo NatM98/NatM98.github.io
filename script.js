@@ -22,7 +22,7 @@
         return text[number][draw];
     }
 
-    crateText = () => {
+    createText = () => {
         generate.textContent = null;
         for (let i = 0; i < text.length; i++) {
             generate.textContent += lottery(i);
@@ -30,12 +30,12 @@
     }
 
     button.addEventListener("click", (e) => {
-        crateText();
+        createText();
         butonImg.classList.add('rotate')
     }, false)
 
     button.addEventListener("touch", (e) => {
-        crateText();
+        createText();
         butonImg.classList.add('rotate')
     }, false)
 
@@ -43,5 +43,5 @@
         butonImg.classList.remove('rotate')
     }, false)
 
-    crateText();
+    createText();
 })();

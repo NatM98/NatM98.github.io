@@ -47,6 +47,14 @@ body {
     width: fit-content;
 }
 
+.generate {
+    position: relative;
+    font-weight: 800;
+    bottom: 2rem;
+    padding: 0 0.5rem 0 0.5rem;
+    text-shadow: -0.1rem -0.1rem 0 black, 0.1rem -0.1rem 0 black, -0.1rem 0.1rem 0 black, 0.1rem 0.1rem 0 black;
+}
+
 button {
     display: flex;
     justify-content: center;
@@ -62,14 +70,6 @@ button {
     height: 4rem;
     margin: 0 0 0 0;
     cursor: pointer;
-}
-
-.generate {
-    position: relative;
-    font-weight: 800;
-    bottom: 2rem;
-    padding: 0 0.5rem 0 0.5rem;
-    text-shadow: -0.1rem -0.1rem 0 black, 0.1rem -0.1rem 0 black, -0.1rem 0.1rem 0 black, 0.1rem 0.1rem 0 black;
 }
 
 .rotate {
